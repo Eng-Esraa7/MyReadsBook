@@ -10,7 +10,8 @@ To get started developing right away:
 - have three section
   1- current readin
   2-want to read
-  3-reas
+  3-read
+  can move from any section to another
   <img src="/starter/images/books.PNG"></img>
-- search on any book and can return to main page
+- search on any book , can return to main page and move book to any section
   <img src="/starter/images/search.PNG"></img>
