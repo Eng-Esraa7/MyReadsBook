@@ -7,4 +7,10 @@ To get started developing right away:
 
 ## should connected with internet
 
-<img src="/starter/images/books.PNG"></img>
+- have three section
+  1- current readin
+  2-want to read
+  3-reas
+  <img src="/starter/images/books.PNG"></img>
+- search on any book and can return to main page
+  <img src="/starter/images/search.PNG"></img>
